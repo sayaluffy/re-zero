@@ -1,1 +1,3 @@
-<?php echo "Assalamu'alaikum"; ?>
+<?php 
+	echo "Bismillahirrahmanirrahim.. Assalamu'alaikum"; 
+?>
